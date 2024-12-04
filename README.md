@@ -44,7 +44,7 @@ RegisterNumber:24901028
 
 ## Output:
 ![gaussian elimination]()
-![image1](image.png)
+![image 1](<Screenshot 2024-12-04 215603.png>)
 
 
 ## Result:
